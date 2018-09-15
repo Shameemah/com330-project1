@@ -1,0 +1,7 @@
+html {
+  font-size: 1.406em; /*22.5px @ 16px */
+  line-height: 1.22em; /*28px @ 18px */
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: left;
+  background: #fffbf8;
+}
