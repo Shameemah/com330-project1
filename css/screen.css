@@ -5,3 +5,12 @@ html {
   text-align: left;
   background: #fffbf8;
 }
+
+header {
+  background: url(../img/headerphoto-4493-60.jpg) #49311c;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
