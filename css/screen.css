@@ -4,6 +4,7 @@ html {
   font-family: Helvetica, Arial, sans-serif;
   text-align: left;
   background: #fffbf8;
+  padding: 0 0.6222em;
 }
 
 header {
@@ -13,4 +14,25 @@ header {
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
+  margin-left: -0.622em;
+  margin-right: -0.622em;
+  padding-top: 1.244em; /* 14px @ 22.5px*/
+  padding-left: 0.6222em; /* 14px @ 22.5px*/
+  padding-right: 0.6222em; /* 14px @ 22.5px*/
+  padding-bottom: 0.622em; /* 14px @ 22.5px*/
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.562em;/* 35.156px @ 22.5px*/
+  line-height: 1.593em; /*56px @ 35.156px*/
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: rgba(170, 102, 68, 0.3);
+  color: #ffeedd;
+}
+
+#subtitle {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: rgba(170, 102, 68, 0.3);
+  color: #331111;
 }
